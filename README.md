@@ -1,4 +1,4 @@
-* in one terminal run "java Main", if it returns "false" theres a bug
+* in one terminal run "java Main", if it returns "false" there's a bug
 * in another you can bisect by typing:
 "git bisect start"
 "git bisect bad head"
